@@ -1,0 +1,6 @@
+Squat  Calf-raise  Wall-sit  Dumbbell-step-ups  Lateral-lunge
+T-raises  Dumbbell-rows  Dumbbell-deadlift  Dumbbell-reverse-fly  Delt-raise
+Pushups  Dips  Overhead-press  Chest-press  Dumbbell-floor-press
+Bicep-curls  Hammer-curls  Concentration-curl  Dumbbell-drag-curls  Neutral-press
+Overhead-tricep-extension  Skullcrusher  Tricep-kickback  Dumbbell-french-press  Diamond-push-ups
+Plank  Situps  Mountain-climbers  Russian-twist  Shoulder-taps
